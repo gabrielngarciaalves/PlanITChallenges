@@ -7,7 +7,7 @@
 
 # SDET Assessment
 
-This document includes a collection of challenges developed to PlanIT company in order to complete an assesment.
+This document includes a collection of python programs developed to PlanIT company in order to complete an assesment.
 
 
 
