@@ -46,7 +46,7 @@ This document includes a collection of challenges developed to PlanIT company in
 1. Open IDLE
 2. Go to File > Open 
 3. Select challenge4.py
-4. Change the string orderFood() to 'pizza', 'thai', 'burguer', 'sushi' or 'bbq'
+4. Change the class orderFood() to 'pizza', 'thai', 'burguer', 'sushi' or 'bbq'
 5. Click on Run > Run Module
 
 ## Screenshots
