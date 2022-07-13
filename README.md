@@ -34,6 +34,7 @@ This document includes a collection of python programs developed to PlanIT compa
 3. Select challenge1.py
 4. Click on Run > Run Module
 5. Select an option (1, 2 or 3)
+6. Follow instructions showed on screen
 
 > Import Challenge 2:
 1. Open IDLE
