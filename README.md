@@ -47,7 +47,7 @@ This document includes a collection of python programs developed to PlanIT compa
 1. Open IDLE
 2. Go to File > Open 
 3. Select challenge4.py
-4. Choose a input 'pizza', 'thai', 'burguer', 'sushi' or 'bbq' to the class orderFood()
+4. Choose an input: 'pizza', 'thai', 'burguer', 'sushi' or 'bbq' to the class orderFood()
 5. Click on Run > Run Module
 
 ## Screenshots
