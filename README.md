@@ -53,7 +53,7 @@ This document includes a collection of challenges developed to PlanIT company in
 4. Change the string orderFood() to 'pizza', 'thai', 'burguer', 'sushi' or 'bbq'
 5. Click on Run > Run Module
 
-<img width="1440" alt="image4" src="https://user-images.githubusercontent.com/108812959/178661532-01c1ba43-7b2d-4882-820d-78ea0ae4378e.png">
+<img width="1440" alt="image4" src="https://user-images.githubusercontent.com/108812959/178661752-f46c6481-e59d-40c5-b95b-377e547e424e.png">
 
 
 ## License
