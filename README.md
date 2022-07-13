@@ -55,7 +55,7 @@ Challenge 1:
 <img width="1440" alt="image1" src="https://user-images.githubusercontent.com/108812959/178662947-c78e893b-ac87-4563-b664-355e69e14f00.png">
 
 Challenge 2:
-[<img width="611" alt="image2" src="https://user-images.githubusercontent.com/108812959/178660851-7a0714bd-5c73-49ed-8955-63f527549c3e.png">](https://raw.githubusercontent.com/gabrielngarciaalves/PlanITChallenges/main/image1.png?token=GHSAT0AAAAAABWRVPZMCVKE6JQBVGWFL3N4YWONQZA)
+<img width="611" alt="image2" src="https://user-images.githubusercontent.com/108812959/178660851-7a0714bd-5c73-49ed-8955-63f527549c3e.png">](https://raw.githubusercontent.com/gabrielngarciaalves/PlanITChallenges/main/image1.png?token=GHSAT0AAAAAABWRVPZMCVKE6JQBVGWFL3N4YWONQZA)
 
 Challenge 4:
 <img width="1440" alt="image4" src="https://user-images.githubusercontent.com/108812959/178661752-f46c6481-e59d-40c5-b95b-377e547e424e.png">
