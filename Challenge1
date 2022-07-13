@@ -1,0 +1,76 @@
+def get_nth_number():
+    idx = int(input("Enter desired index: "))
+
+    if idx == 1:
+        print("The 1st number is: 0")
+    elif idx == 2:
+        print("The 2nd number is: 1")
+    elif idx == 3:
+        print("The 3rd number is: 1")
+    else:
+        print("The " + str(idx) + "th number is: " + str(fibonacci_sequence(idx)))
+
+
+def get_index():
+    num = int(input("Enter number: "))
+
+    if num == 0:
+        print("0 is the 1st fibonacci number.")
+    elif num == 1:
+        print("1 can be the 2nd or 3rd fibonacci number.")
+    else:
+        seq = True
+        idx = 4
+        fib = 1
+        while seq:
+            seq = False
+            last_fib = fib
+            fib = fibonacci_sequence(idx)
+            if num == fib:      
+                print(str(num) + " is the " + str(idx) + "th fibonacci number.")
+            elif num < fib:
+                x = fib - num
+                y = num - last_fib
+                if x < y:
+                    close_idx = idx
+                else:
+                    close_idx = idx - 1
+                print(str(num) + " is not a fibonacci number and its closest index in the sequence is: " +
+                      str(close_idx))
+            else:
+                idx += 1
+                seq = True
+
+
+def fibonacci_sequence(nth):
+    a = b = 1
+    count = 4
+    fib = 0
+    while count <= nth:
+        fib = a + b
+        b = a
+        a = fib
+        count += 1
+    return fib
+
+
+if __name__ == '__main__':
+    print("Choose a option from below")
+    print("1-Get the nth number in the fibonacci sequence")
+    print("2-Get whether a number is a fibonacci number and what is the closest index in the fibonacci sequence")
+    print("3-Exit")
+
+    while True:
+        option = int(input("Enter option: "))
+        if option == 1:
+            get_nth_number()
+            print("\r\nLet's do it again!\r\n")
+        elif option == 2:
+            get_index()
+            print("\r\nLet's do it again!\r\n")
+        elif option == 3:
+            print("Bye!")
+            break
+        else:
+            print("Option doesn't exist!")
+            print("Choose 1, 2 or 3.")
