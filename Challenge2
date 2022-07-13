@@ -1,0 +1,25 @@
+# Use Python version 3.7 or above
+
+def search(s):
+    char = {s[0]: 1}
+    for i in range(1, len(s)):
+        if s[i] in char.keys():
+            char[s[i]] += 1
+        else:
+            char.update({s[i]: 1})
+
+            
+    value = 1
+    cmax = s[0]
+    for key in char.keys():
+        count = char[key]
+        if count > value:
+            value = count
+            cmax = key
+    return cmax
+
+
+if __name__ == '__main__':
+    print("Find the character that has the highest number of occurrences within a certain string, ignoring case.")
+    string = str(input("Enter string: "))
+    print("Result: " + search(string.lower()))
