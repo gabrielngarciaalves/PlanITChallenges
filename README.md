@@ -29,24 +29,27 @@ This document includes a collection of python programs developed to PlanIT compa
 ## Uses/Examples
 
 > Import Challenge 1:
-1. Open IDLE
-2. Go to File > Open 
-3. Select challenge1.py
-4. Click on Run > Run Module
-5. Select an option (1, 2 or 3)
-6. Follow instructions on screen
+1. Save code Challenge1.py 
+2. Open IDLE
+3. Go to File > Open 
+4. Select file saved
+5. Click on Run > Run Module
+6. Select an option (1, 2 or 3)
+7. Follow instructions on screen
 
 > Import Challenge 2:
-1. Open IDLE
-2. Go to File > Open 
-3. Select challenge2.py
+1. Save code Challenge2.py 
+2. Open IDLE
+3. Go to File > Open 
+4. Select file saved
 4. Click on Run > Run Module
 5. Enter the string
 
 >Import Challenge 4:
-1. Open IDLE
-2. Go to File > Open 
-3. Select challenge4.py
+1. Save code Challenge1.py 
+2. Open IDLE
+3. Go to File > Open 
+4. Select file saved 
 4. Put an input: 'pizza', 'thai', 'burguer', 'sushi' or 'bbq' into the class orderFood()
 5. Click on Run > Run Module
 
