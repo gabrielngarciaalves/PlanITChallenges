@@ -13,7 +13,7 @@ This document includes a collection of challenges developed to PlanIT company in
 
 ## Author
 
-- [@gabrielngarc](https://github.com/gabrielngarciaalves/PlanITChallenges)
+- Gabriel Garcia [@gabrielngarc](https://github.com/gabrielngarciaalves/PlanITChallenges)
 
 
 ## Functionalities
