@@ -1,0 +1,20 @@
+class Food:
+    def __init__(self, restaurant, price):
+        self.restaurant = restaurant
+        self.price = price
+    def findRest(self):
+        print("Order from: ", self.restaurant)
+    def sayPrice(self):
+        print("The price is: ", self.price)
+
+pizza = Food("Awesome Pizza Place", "$20")
+thai = Food("Incredible Thai Place", "$30")
+burguer = Food("Wild Burguer Joint", "$15")
+sushi = Food("Delicious Japanese Restaurant", "$40")
+bbq = Food("Brazilian Restaurant", "$50")
+
+def orderFood(order):
+    order.findRest()
+    order.sayPrice()
+    
+orderFood(bbq)
