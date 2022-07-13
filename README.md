@@ -35,16 +35,12 @@ This document includes a collection of challenges developed to PlanIT company in
 4. Click on Run > Run Module
 5. Select an option (1, 2 or 3)
 
-<img width="1440" alt="image1" src="https://user-images.githubusercontent.com/108812959/178662947-c78e893b-ac87-4563-b664-355e69e14f00.png">
-
 > Import Challenge 2:
 1. Open IDLE
 2. Go to File > Open 
 3. Select challenge2.py
 4. Click on Run > Run Module
 5. Enter the string
-
-[<img width="611" alt="image2" src="https://user-images.githubusercontent.com/108812959/178660851-7a0714bd-5c73-49ed-8955-63f527549c3e.png">](https://raw.githubusercontent.com/gabrielngarciaalves/PlanITChallenges/main/image1.png?token=GHSAT0AAAAAABWRVPZMCVKE6JQBVGWFL3N4YWONQZA)
 
 >Import Challenge 4:
 1. Open IDLE
@@ -53,8 +49,16 @@ This document includes a collection of challenges developed to PlanIT company in
 4. Change the string orderFood() to 'pizza', 'thai', 'burguer', 'sushi' or 'bbq'
 5. Click on Run > Run Module
 
-<img width="1440" alt="image4" src="https://user-images.githubusercontent.com/108812959/178661752-f46c6481-e59d-40c5-b95b-377e547e424e.png">
+## Screenshots
 
+Challenge 1:
+<img width="1440" alt="image1" src="https://user-images.githubusercontent.com/108812959/178662947-c78e893b-ac87-4563-b664-355e69e14f00.png">
+
+Challenge 2:
+[<img width="611" alt="image2" src="https://user-images.githubusercontent.com/108812959/178660851-7a0714bd-5c73-49ed-8955-63f527549c3e.png">](https://raw.githubusercontent.com/gabrielngarciaalves/PlanITChallenges/main/image1.png?token=GHSAT0AAAAAABWRVPZMCVKE6JQBVGWFL3N4YWONQZA)
+
+Challenge 4:
+<img width="1440" alt="image4" src="https://user-images.githubusercontent.com/108812959/178661752-f46c6481-e59d-40c5-b95b-377e547e424e.png">
 
 ## License
 
