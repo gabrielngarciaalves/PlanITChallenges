@@ -46,7 +46,7 @@ This document includes a collection of python programs developed to PlanIT compa
 5. Enter the string
 
 >Import Challenge 4:
-1. Save code Challenge1.py 
+1. Save code Challenge4.py 
 2. Open IDLE
 3. Go to File > Open 
 4. Select file saved 
