@@ -35,7 +35,7 @@ This document includes a collection of challenges developed to PlanIT company in
 4. Click on Run > Run Module
 5. Select an option (1, 2 or 3)
 
-(https://raw.githubusercontent.com/gabrielngarciaalves/PlanITChallenges/main/image1.png?token=GHSAT0AAAAAABWRVPZMLB5OP5TVKCZ7QRWMYWONOAQ)
+[<img width="611" alt="image2" src="https://user-images.githubusercontent.com/108812959/178660851-7a0714bd-5c73-49ed-8955-63f527549c3e.png">](https://raw.githubusercontent.com/gabrielngarciaalves/PlanITChallenges/main/image1.png?token=GHSAT0AAAAAABWRVPZMCVKE6JQBVGWFL3N4YWONQZA)
 
 > Import Challenge 2:
 1. Open IDLE
