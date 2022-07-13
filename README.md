@@ -37,7 +37,6 @@ This document includes a collection of challenges developed to PlanIT company in
 
 <img width="1440" alt="image1" src="https://user-images.githubusercontent.com/108812959/178662947-c78e893b-ac87-4563-b664-355e69e14f00.png">
 
-
 > Import Challenge 2:
 1. Open IDLE
 2. Go to File > Open 
